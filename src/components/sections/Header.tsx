@@ -5,7 +5,7 @@ import {MenuIcon} from "@/components/ui/icons/MenuIcon";
 
 export const Header = () => {
     return (
-        <header className="flex px-4 sm:px-6 md:px-8 lg:px-32 justify-between items-center py-4 md:py-6 sticky top-0 z-50 bg-white shadow-sm">
+        <header className="flex px-4 sm:px-6 md:px-8 lg:px-32 justify-between items-center py-2 md:py-4 sticky top-0 z-50 bg-white shadow-sm">
             <div className="flex-shrink-0">
                 <span className="text-[var(--primary)] font-montserrat font-bold text-xl sm:text-2xl">
                     DudeShape

@@ -1,12 +1,12 @@
 export default function Hero() {
     return (
-        <section className="relative h-[calc(100vh-80px)] sm:w-screen sm:h-screen w-full overflow-hidden bg-white text-white">
+        <section className="relative h-[calc(100vh-80px)] sm:h-screen w-full overflow-hidden bg-white text-white">
             <div className="absolute inset-0 flex justify-center">
-                <div className="relative md:left-1/20 md:translate-x-1/20 sm:w-screen sm:h-screen">
+                <div className="relative md:left-1/15 md:translate-x-1/15 sm:w-screen md:h-screen">
                     <img
                         src="/sections/hero.jpg"
                         alt="Hero"
-                        className="h-full w-full object-cover md:w-screen"
+                        className="h-full object-cover"
                     />
                 </div>
             </div>
