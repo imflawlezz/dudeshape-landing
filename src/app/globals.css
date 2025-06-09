@@ -7,6 +7,7 @@
   --primary: #244D4D;
   --primary-dark: #154444;
   --links: #161616;
+  --paragraph: #383738;
   --font-montserrat: #{montserrat.style.fontFamily};
   --font-dm-sans: #{dmSans.style.fontFamily};
 }
