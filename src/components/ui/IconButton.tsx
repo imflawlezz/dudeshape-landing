@@ -7,7 +7,7 @@ interface IconButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> 
 export const IconButton = ({ icon, className = '', ...props }: IconButtonProps) => {
     return (
         <button
-            className={`p-2 rounded-full hover:bg-gray-100 transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 ${className}`}
+            className={`p-1 rounded-full hover:scale-130 transition-transform ${className}`}
             {...props}
         >
             {icon}
