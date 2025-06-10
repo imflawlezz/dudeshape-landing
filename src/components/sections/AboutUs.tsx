@@ -5,7 +5,7 @@ import {DeliveryIcon} from "@/components/ui/icons/DeliveryIcon";
 
 export const AboutUs = () => {
     return (
-        <section className="py-16 px-4 sm:px-6 md:px-8 lg:px-32 bg-white">
+        <section className="py-16 px-5 sm:px-10 md:px-20 lg:px-30 bg-white">
             <div className="max-w-7xl mx-auto">
                 <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
                     <div className="order-2 lg:order-1">
