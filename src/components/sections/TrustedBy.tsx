@@ -7,7 +7,7 @@ import {Stripe} from "@/components/ui/logos/Stripe";
 
 export const TrustedBy = () => {
     return (
-        <section className="py-16 px-4 sm:px-6 md:px-8 lg:px-32">
+        <section className="py-8 sm:py-10 md:py-12 lg:py-16 px-4 sm:px-6 md:px-8 lg:px-32">
             <div className="max-w-7xl mx-auto text-center">
                 <h2 className="font-montserrat font-bold text-2xl sm:text-3xl lg:text-4xl text-[var(--primary)] mb-12">
                     Trusted by 200+ companies

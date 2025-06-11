@@ -18,7 +18,7 @@ export const PopularFurniture = () => {
     ];
 
     return (
-        <section className="px-5 sm:px-10 md:px-20 lg:px-30 py-8">
+        <section className="px-5 sm:px-10 md:px-20 lg:px-30 py-8 sm:py-10 md:py-12 lg:py-16">
             <div className="flex flex-col md:flex-row justify-between items-start md:items-end mb-6 gap-4">
                 <div className="md:w-1/2">
                     <h2 className="font-montserrat font-bold text-3xl md:text-4xl text-[var(--primary)] mb-2">

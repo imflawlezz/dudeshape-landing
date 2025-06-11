@@ -47,7 +47,7 @@ export const AllFurniture = () => {
     const [activeTab, setActiveTab] = useState('room');
 
     return (
-        <section className="w-full px-4 sm:px-6 md:px-10 lg:px-20 xl:px-30 py-16">
+        <section className="w-full px-4 sm:px-6 md:px-10 lg:px-20 xl:px-30 py-8 sm:py-10 md:py-12 lg:py-16">
             <div className="max-w-screen-xl mx-auto space-y-10 text-center">
                 <h2 className="font-montserrat font-bold text-2xl sm:text-3xl lg:text-4xl text-[var(--primary)]">
                     All Furniture
