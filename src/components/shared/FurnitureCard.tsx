@@ -22,7 +22,7 @@ export default function FurnitureCard({
     const [liked, setLiked] = useState(false);
 
     return (
-        <div className="bg-white shadow-md overflow-hidden w-full h-full flex flex-col">
+        <div className="bg-white drop-shadow-sm overflow-hidden w-full h-full flex flex-col m-0.5">
             <div className="relative pt-[75%]">
                 <img
                     src={image}
