@@ -14,6 +14,7 @@ const TABS = [
     { id: 'room', label: 'Shop By Room' },
     { id: 'category', label: 'Shop By Category' },
     { id: 'style', label: 'Shop By Style' },
+    { id: 'shfdk', label: 'Shop By Pidoras' },
 ];
 
 const TAB_CONTENT = {
@@ -62,7 +63,7 @@ export const AllFurniture = () => {
                 </div>
 
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-20 items-center">
-                    <div className="relative w-full max-w-2xl mx-auto pl-8 pt-5">
+                    <div className="hidden lg:block relative w-full max-w-2xl mx-auto pl-8 pt-5">
                         <div className="relative w-full aspect-square sm:aspect-[4/3]">
                             <div className="absolute inset-0 -translate-x-8 -translate-y-5 bg-[var(--primary)]" />
                             <div className="relative z-10 w-full h-full">
