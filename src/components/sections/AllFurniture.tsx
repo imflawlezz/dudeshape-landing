@@ -14,7 +14,6 @@ const TABS = [
     { id: 'room', label: 'Shop By Room' },
     { id: 'category', label: 'Shop By Category' },
     { id: 'style', label: 'Shop By Style' },
-    { id: 'shfdk', label: 'Shop By Pidoras' },
 ];
 
 const TAB_CONTENT = {
