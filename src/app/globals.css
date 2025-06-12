@@ -9,6 +9,9 @@
   --links: #161616;
   --paragraph: #383738;
   --secondary: #919090;
+  --button: #FFB624;
+  --footer: #305F64;
+  --separator: #506E71;
   --font-montserrat: #{montserrat.style.fontFamily};
   --font-dm-sans: #{dmSans.style.fontFamily};
 }
