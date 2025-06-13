@@ -15,6 +15,10 @@ This is a responsive landing page recreated based on a design found in the WEB.
 
 ![Screenshot](/public/preview.png)
 
+## 🚀 Live Demo
+
+👉 [View Live on Vercel](https://dudeshape-landing.vercel.app/
+
 ## 🧑‍💻 What I Practiced
 
 - Layout replication
