@@ -11,13 +11,17 @@ This is a responsive landing page recreated based on a design found in the WEB.
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vercel](https://vercel.com/) for deployment
 
-## 📷 Preview
-
-![Screenshot](/public/preview.png)
-
 ## 🚀 Live Demo
 
 👉 [View Live on Vercel](https://dudeshape-landing.vercel.app/)
+
+## 📷 Preview
+
+![Screenshot](/public/preview-1.jpeg)
+![Screenshot](/public/preview-2.jpeg)
+![Screenshot](/public/preview-3.jpeg)
+![Screenshot](/public/preview-4.jpeg)
+![Screenshot](/public/preview-5.jpeg)
 
 ## 🧑‍💻 What I Practiced
 
